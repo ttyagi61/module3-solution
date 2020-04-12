@@ -1,0 +1,28 @@
+.navbar-brand h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	color: #191970;
+	text-transform: uppercase;
+	line-height: .50;
+}
+
+#nav-list {
+	text-align: center;
+	background-color: #E0FFFF;
+}
+
+#nav-list a {
+	color: #191970;
+}
+
+#nav-list a:hover {
+	background-color: white;
+}
+
+.menu-content {
+	background-color: #E0FFFF;
+	padding: 10px 25px;
+	text-align: justify;
+	width: 100%;
+	margin: 0;
+}
